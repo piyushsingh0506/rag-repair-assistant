@@ -1,0 +1,5 @@
+.env
+mytest/
+__pycache__/
+uploads/
+vectorstore/
